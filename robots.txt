@@ -1,1 +1,1 @@
-Sitemap: https://devanshu.xyz/sitemap.xml
+Sitemap: https://Devanshusp.github.io/blog/sitemap.xml
