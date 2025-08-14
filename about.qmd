@@ -1,0 +1,27 @@
+---
+title: nice to finally meet you
+description: ( ´◔ ω◔`) ノシ
+image: profile.jpeg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/devanshusp
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/devsenp
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/devanshusp/
+    - icon: envelope-fill
+      text: Email
+      href: mailto:devsenp@yahoo.com
+
+comments: false
+---
+
+Hey, I’m Devanshu Sen Pandey.
+I grew up in Delhi, Ann Arbor, and Saint Louis.
+I am currently studying computer science, statistics, and neuroscience at Grinnell College.
+My goals in life are to see my friends and family thrive, contribute to making humanity multiplanetary, and live long enough to pop a bottle (of diet coke) on my 200th birthday.

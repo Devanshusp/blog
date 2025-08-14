@@ -1,0 +1,44 @@
+project:
+  type: website
+
+website:
+  site-url: https://devanshu.xyz
+  title: The Wandering Soul
+  description: Devanshu Sen Pandey's corner of the internet
+  open-graph: true
+
+  navbar:
+    background: "#eee"
+    title: false
+    left:
+      - text: Home
+        href: /
+      - icon: rss
+        href: index.xml
+    right:
+      - text: About
+        href: /about.html
+      - text: CV
+        href: /cv.html
+      - icon: github
+        href: https://github.com/devanshusp
+      - icon: twitter
+        href: https://x.com/devsenp
+      - icon: linkedin
+        href: https://www.linkedin.com/in/devanshusp/
+
+  page-footer:
+    center:
+      - href: https://devanshu.xyz
+        text: devanshu.xyz
+
+  comments:
+    giscus:
+      repo: devanshusp/blog
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    anchor-sections: true
+    highlight-style: github
