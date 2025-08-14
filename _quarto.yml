@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  site-url: https://devanshu.xyz
+  # site-url: https://devanshu.xyz
   title: The Wandering Soul
   description: Devanshu Sen Pandey's corner of the internet
   open-graph: true
